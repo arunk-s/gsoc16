@@ -31,7 +31,7 @@ NOTE: Module is only tested on amd64 architecture as libaudit-go currently only 
 
 ## Instructions for running the module:
 
-First, you should have a web server running that accepts POST requests. You can get ephemeral urls that allows POST on websites like [requesb.in](http://requestb.in/).
+First, you should have a web server running that accepts POST requests. You can get ephemeral urls that allows POST on websites like [requestb.in](http://requestb.in/).
 
 Modify [params](main.go#L17) in the module to specify the address for the server.
 
@@ -41,7 +41,7 @@ You can also use `auditctl -l` and `auditctl -s` to further check that audit set
 Suggested Environment: `Ubuntu 16.04 64bit , auditd version 2.4.5`
 
 To run the module(require super user access):
-```go
+```
 go build main.go
 
 sudo ./main
