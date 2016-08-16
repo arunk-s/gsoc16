@@ -40,6 +40,8 @@ You can also use `auditctl -l` and `auditctl -s` to further check that audit set
 
 Suggested Environment: `Ubuntu 16.04 64bit , auditd version 2.4.5`
 
+Requires: `Standard Go language setup, Version Go >= 1.5, auditd framework`
+
 To run the module(require super user access):
 ```
 go build main.go
