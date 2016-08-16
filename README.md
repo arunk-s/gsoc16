@@ -1,4 +1,4 @@
-Work repository for GSOC 2016: Project - MIG Audit Module
+Work repo for GSOC 2016: MIG Audit Module
 =========================
 
 The project is to implement a module for [MIG](http://mig.mozilla.org/) that support syscall monitoring via Audit Framework present in Linux kernel.
