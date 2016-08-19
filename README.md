@@ -48,3 +48,8 @@ go build main.go
 
 sudo ./main
 ```
+
+## Further Improvements
+
+All further modifications to the library will be added on its repo [libaudit-go](https://github.com/mozilla/libaudit-go).
+All module related modifications and feature additions will be at [MIG](https://github.com/mozilla/mig/) repo.
