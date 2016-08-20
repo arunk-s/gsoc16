@@ -9,8 +9,7 @@ NOTE: Module is only tested on amd64 architecture as libaudit-go currently only 
 
 ## Work done during the project period:
 
-* 	Addition of the mig-audit module, [Pull request](https://github.com/mozilla/mig/pull/253)
-
+* 	Addition of the mig-audit module, [Pull request](https://github.com/mozilla/mig/pull/253), Commits [#1](https://github.com/mozilla/mig/pull/253/commits/0b3f157dd665180f5ef1bdcaa707e670bb026726) [#2](https://github.com/mozilla/mig/pull/253/commits/1457907ffcee8ba496d5890c51ecc6cde2328776) [#3](https://github.com/mozilla/mig/pull/253/commits/0dfa8eeaa46c9c536102356d6d5b3b6d2d14c537)
 *	Fixing and testing the libaudit-go library, [Commits](https://github.com/mozilla/libaudit-go/commits?author=arunk-s)
 
 *	Comparing performance of audisp-json and the Go module
